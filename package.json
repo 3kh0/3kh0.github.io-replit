@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/node": "^18.11.9",
     "express": "^4.18.2",
-    "node-fetch": "^3.2.10",
+    "node-fetch": "^3.3.0",
     "kuler": "^2.0.0"
   }
 }
