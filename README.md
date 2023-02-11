@@ -6,7 +6,7 @@ This was made due to the fact that the repo size is too broken + used to be too 
 
 ## Running
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/idek29879890/3kh0.github.io-replit)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/3kh0/3kh0.github.io-replit)
 
 Running this is super easy!
 
