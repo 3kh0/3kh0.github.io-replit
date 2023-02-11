@@ -1,8 +1,8 @@
 # 3kh0.github.io Replit
 
-This repo is a simple proxy build by @retronbv ([BUFFY](https://github.com/retronbv/buffy)), made to proxy 3kh0.github.io
+This repo is a mirror of 3kh0 v4 for replit!
 
-This was made due to the fact that the repo size is too big for replit.
+This was made due to the fact that the normal 3kh0 v4 is too broken and unoptimised for replit.
 
 ## Running
 
@@ -16,9 +16,3 @@ Running this is super easy!
 4. That's it!
 
 It is really just that simple!
-
-## Contributing
-
-Please contribute to retronbv's repo found at the link below.
-
-https://github.com/retronbv/buffy
