@@ -1,12 +1,12 @@
 # 3kh0.github.io Replit
 
-This repo is a simple proxy build by @retronbv ([BUFFY](https://github.com/retronbv/buffy)), made to proxy 3kh0.github.io
+This repo is now real 3kh0 v4 patched to work on replit!
 
-This was made due to the fact that the repo size is too big for replit.
+This was made due to the fact that the repo size is too broken + used to be too big for replit.
 
 ## Running
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/3kh0/3kh0.github.io-replit)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/idek29879890/3kh0.github.io-replit)
 
 Running this is super easy!
 
@@ -15,10 +15,4 @@ Running this is super easy!
 3. Click on the link that is shown in console.
 4. That's it!
 
-It is really just that simple!
-
-## Contributing
-
-Please contribute to retronbv's repo found at the link below.
-
-https://github.com/retronbv/buffy
+It is really just that simple to run a 3kh0 clone on replit
