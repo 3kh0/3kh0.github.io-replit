@@ -1,8 +1,8 @@
-# 3kh0.github.io Replit
+# 3kh0.github.io Replit Version
 
 This repo is a mirror of 3kh0 v4 for replit!
 
-This was made due to the fact that the normal 3kh0 v4 is too broken and unoptimised for replit.
+This was made due to the fact that the normal 3kh0 v4 is unstable for use on Replit.
 
 ## Running
 
@@ -16,3 +16,10 @@ Running this is super easy!
 4. That's it!
 
 It is really just that simple!
+
+
+## Differences
+
+The Replit version is a cut down version of 3kh0.github.io, with the features pulled from the main 3kh0 repository.
+
+That's pretty much it!
