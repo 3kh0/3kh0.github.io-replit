@@ -16,7 +16,7 @@ This was made due to the fact that the normal 3kh0 v4 is unstable for use on Rep
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://Rahib777-7/3kh0replit)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Rahib777-7/3kh0replit)
 
-1. Click on the button above to clone the repo to a new replit.
+1. Click on the Replit button above to clone the repo to a new replit.
 2. Click on the green Run button.
 3. Click on the link that is shown in console.
 4. That's it!
