@@ -1,5 +1,53 @@
 [
 	{
+		"name": "run 3 (adobe flash required)",
+		"root": "legacyflashgames",
+		"file": "run3flash/run3.swf",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "mctd2 (adobe flash required)",
+		"root": "legacyflashgames",
+		"file": "minecraft-tower-defence-2/minecraft-tower-defence-2.swf",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "flash golf 2001 (adobe flash required)",
+		"root": "legacyflashgames",
+		"file": "flashgolf_2001.swf",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "binding of issac (adobe flash required)",
+		"root": "legacyflashgames",
+		"file": "bindingofissac/tboi.swf",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "monkeymart",
+		"root": "mart",
+		"file": "Monkey Marr.html",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "swarmsimulator",
+		"root": "swarmsimulator",
+		"file": "Swarm Simulator.html",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "idledice",
+		"root": "idledice",
+		"file": "Idle Dice.html",
+		"img": "meta/apple-touch-icon.png"
+	},
+	{
+		"name": "particleclicker",
+		"root": "particleclicker",
+		"file": "particle clicker OG.html",
+		"img": "meta/--icon.png"
+	},
+	{
 		"name": "1",
 		"root": "1",
 		"file": "index.html",
@@ -1108,6 +1156,12 @@
 		"root": "minecraft-classic",
 		"file": "index.html",
 		"img": "pack.png"
+	},
+	{
+		"name": "FSUCraft",
+		"root": "fsucraft",
+		"file": "index.html",
+		"img": "notexist.png"
 	},
 	{
 		"name": "Minecraft Classic Hacks",
